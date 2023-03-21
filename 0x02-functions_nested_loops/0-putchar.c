@@ -1,2 +1,20 @@
-		
-Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about header files, functions, loops and nested loops in **C language**.
+#include "main.h"
+
+/**
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
+int main(void)
+{
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
+}
