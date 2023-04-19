@@ -1,1 +1,1 @@
-0x0F. C - Function pointeris
+0x0F. C - Function pointers
